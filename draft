@@ -15,8 +15,10 @@ $ = not root
 /opt = stores optional items . common location to drop git tools
 
 
+ps
 ps -ef
 ps -aux
+top
 lsof -i 
 lsof -p
 netstat -apno = linux equibalent of windows netstat -abno
